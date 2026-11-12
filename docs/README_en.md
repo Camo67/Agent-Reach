@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="#quick-start">Quick Start</a> · <a href="../README.md">中文</a>
+  <a href="#quick-start">Quick Start</a> · <a href="README_zh.md">中文</a>
 </p>
 
 <p align="center">
